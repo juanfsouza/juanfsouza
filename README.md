@@ -16,5 +16,7 @@
   <img aling="center" alt="html5" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </div>
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Juan&bg_color=0a0a0a&color=772c8c&line=6b298e&point=622ec2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ ####
+ 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juanfsouza&bg_color=0a0a0a&color=772c8c&line=6b298e&point=622ec2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
