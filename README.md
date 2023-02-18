@@ -33,81 +33,8 @@ Here are some ideas to get you started:
 <div data-view-component="true" class="Layout-main">        
         
           
-        <div class="file-navigation mb-3 d-flex flex-items-start">
-  
-<div class="position-relative">
-  <details class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 " id="branch-select-menu" data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:541262417,&quot;originating_url&quot;:&quot;https://github.com/carolbarbosa101/carolbarbosa101&quot;,&quot;user_id&quot;:88254614}}" data-hydro-click-hmac="ada7b0a95d69184a46d847fc3cc07c465da7362a2f0e5e75f73dd5c59de8204e">
-    <summary class="btn css-truncate" data-hotkey="w" title="Switch branches or tags">
-      <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch">
-    <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
-</svg>
-      <span class="css-truncate-target" data-menu-button="">main</span>
-      <span class="dropdown-caret"></span>
-    </summary>
 
-    
-<div class="SelectMenu">
-  <div class="SelectMenu-modal">
-    <header class="SelectMenu-header">
-      <span class="SelectMenu-title">Switch branches/tags</span>
-      <button class="SelectMenu-closeButton" type="button" data-toggle-for="branch-select-menu"><svg aria-label="Close menu" aria-hidden="false" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
-</svg></button>
-    </header>
-
-    <input-demux data-action="tab-container-change:input-demux#storeInput tab-container-changed:input-demux#updateInput" data-catalyst="">
-      <tab-container class="d-flex flex-column js-branches-tags-tabs" style="min-height: 0;">
-        <div class="SelectMenu-filter">
-          <input data-target="input-demux.source" id="context-commitish-filter-field" class="SelectMenu-input form-control" aria-owns="ref-list-branches" data-controls-ref-menu-id="ref-list-branches" autofocus="" autocomplete="off" aria-label="Filter branches/tags" placeholder="Filter branches/tags" type="text">
-        </div>
-
-        <div class="SelectMenu-tabs" role="tablist" data-target="input-demux.control">
-          <button class="SelectMenu-tab" type="button" role="tab" aria-selected="true" tabindex="0">Branches</button>
-          <button class="SelectMenu-tab" type="button" role="tab" aria-selected="false" tabindex="-1">Tags</button>
-        </div>
-
-        <div role="tabpanel" id="ref-list-branches" data-filter-placeholder="Filter branches/tags" tabindex="" class="d-flex flex-column flex-auto overflow-auto">
-          <ref-selector type="branch" data-targets="input-demux.sinks" data-action="
-              input-entered:ref-selector#inputEntered
-              tab-selected:ref-selector#tabSelected
-              focus-list:ref-selector#focusFirstListMember
-            " query-endpoint="/carolbarbosa101/carolbarbosa101/refs" cache-key="v0:1664128897.101961" current-committish="bWFpbg==" default-branch="bWFpbg==" name-with-owner="Y2Fyb2xiYXJib3NhMTAxL2Nhcm9sYmFyYm9zYTEwMQ==" prefetch-on-mouseover="" data-catalyst="">
-
-            <template data-target="ref-selector.fetchFailedTemplate">
-              <div class="SelectMenu-message" data-index="{{ index }}">Could not load branches</div>
-            </template>
-
-              <template data-target="ref-selector.noMatchTemplate">
-    <div class="SelectMenu-message">Nothing to show</div>
-</template>
-
-
-            <div data-target="ref-selector.listContainer" role="menu" class="SelectMenu-list " data-turbo-frame="repo-content-turbo-frame">
-              <div class="SelectMenu-loading pt-3 pb-0 overflow-hidden" aria-label="Menu is loading">
-                <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke"></circle>
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
-</svg>
-              </div>
-            </div>
-
-              
-
-<template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/carolbarbosa101/carolbarbosa101/tree/{{ urlEncodedRefName }}" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-    <span class="flex-1 css-truncate css-truncate-overflow {{ isFilteringClass }}">{{ refName }}</span>
-    <span hidden="{{ isNotDefault }}" class="Label Label--secondary flex-self-start">default</span>
-  </a>
-</template>
-
-
-              <footer class="SelectMenu-footer"><a href="/carolbarbosa101/carolbarbosa101/branches">View all branches</a></footer>
-          </ref-selector>
-
-        </div>
+             
 
         <div role="tabpanel" id="tags-menu" data-filter-placeholder="Find a tag" tabindex="" hidden="" class="d-flex flex-column flex-auto overflow-auto">
           <ref-selector type="tag" data-action="
