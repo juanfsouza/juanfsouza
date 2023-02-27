@@ -19,4 +19,31 @@
  
  ####
  
+name: Generate Datas
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: Reb1324
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juanfsouza&bg_color=0a0a0a&color=772c8c&line=6b298e&point=622ec2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
