@@ -20,7 +20,6 @@
  
  ##
  
-#
           
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juanfsouza&bg_color=0a0a0a&color=772c8c&line=6b298e&point=622ec2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
