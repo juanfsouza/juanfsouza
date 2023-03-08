@@ -7,7 +7,7 @@
 
 ##
 <div style="display: inline_block"><br/>
-  <img aling="center" alt="html5" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
+  <img aling="center" alt="html5" src="https://icongr.am/devicon/css3-original.svg?size=60&color=currentColor" />
   <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img aling="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img aling="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
