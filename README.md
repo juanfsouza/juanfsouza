@@ -7,15 +7,15 @@
 
 ##
 <div style="display: inline_block"><br/>
-  <img aling="center" alt="html5" src="https://icongr.am/devicon/css3-original.svg?size=60&color=currentColor" />
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img aling="center" alt="html5" src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor" />
+  <img aling="center" alt="html5" src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor" />
+  <img aling="center" alt="html5" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" />
+  <img aling="center" alt="html5" src="https://icongr.am/devicon/react-original.svg?size=50&color=currentColor" />
+  <img aling="center" alt="html5" src="https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor" />
+  <img aling="center" alt="html5" src="https://icongr.am/devicon/wordpress-original.svg?size=50&color=currentColor" />
+  <img aling="center" alt="html5" src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" />
+  <img aling="center" alt="html5" src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor" />
+  <img aling="center" alt="html5" src="https://icongr.am/devicon/webpack-original.svg?size=50&color=currentColor" />
   </div>
  
  ##
