@@ -8,21 +8,21 @@
 ##
 <div style="display: inline_block"><br/>
   <img aling="center" alt="html5" src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor" />
-  ###
+  
   <img aling="center" alt="html5" src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor" />
-  .
+  
   <img aling="center" alt="html5" src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor" />
-  .
+  
   <img aling="center" alt="html5" src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" />
-  .
+  
   <img aling="center" alt="html5" src="https://icongr.am/devicon/sass-original.svg?size=40&color=currentColor" />
-  .
+  
   <img aling="center" alt="html5" src="https://icongr.am/devicon/wordpress-original.svg?size=40&color=currentColor" />
-  .
+  
   <img aling="center" alt="html5" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" />
-  .
+  
   <img aling="center" alt="html5" src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor" />
-  .
+  
   <img aling="center" alt="html5" src="https://icongr.am/devicon/webpack-original.svg?size=40&color=currentColor" />
   </div>
  
