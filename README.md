@@ -7,7 +7,7 @@
 
 ##
 <div style="display: inline_block"><br/>
-  <center><img aling="center" alt="html5" src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor" />
+  <img aling="center" alt="html5" src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor" />
 
   <img aling="center" alt="html5" src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor" />
 
@@ -23,7 +23,7 @@
 
   <img aling="center" alt="html5" src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor" />
 
-  <img aling="center" alt="html5" src="https://icongr.am/devicon/webpack-original.svg?size=40&color=currentColor" /></center>
+  <img aling="center" alt="html5" src="https://icongr.am/devicon/webpack-original.svg?size=40&color=currentColor" />
   </div>
  
  ##
