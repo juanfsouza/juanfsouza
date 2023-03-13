@@ -4,7 +4,8 @@
 </div>
 <br>
 
-<div  align="center"> 
+<div  align="center"> ![code](https://user-images.githubusercontent.com/88254614/224605665-65c8f7c8-4c0d-4b93-8a4f-add0e6aadb89.gif)
+
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
