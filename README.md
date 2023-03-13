@@ -1,9 +1,8 @@
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=772c8c&height=120&section-header"/>
-
-                     
-![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=juanfsouza&show_icons=true&theme=dracula)
-
+ 
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=juanfsouza&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfsouza&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
 ##
 <div style="display: inline_block"><br/>
