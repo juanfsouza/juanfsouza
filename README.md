@@ -5,25 +5,18 @@
 <br>
 
 ##
-<div style="display: inline_block"><br/>
-  <img aling="center" alt="html5" src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor" />
-
-  <img aling="center" alt="html5" src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor" />
-
-  <img aling="center" alt="html5" src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor" />
-
-  <img aling="center" alt="html5" src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" />
-
-  <img aling="center" alt="html5" src="https://icongr.am/devicon/sass-original.svg?size=40&color=currentColor" />
-
-  <img aling="center" alt="html5" src="https://icongr.am/devicon/wordpress-original.svg?size=40&color=currentColor" />
-
-  <img aling="center" alt="html5" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" />
-
-  <img aling="center" alt="html5" src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor" />
-
-  <img aling="center" alt="html5" src="https://icongr.am/devicon/webpack-original.svg?size=40&color=currentColor" />
-  </div>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Melhores Tecnologias <3</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+   </div>
  
  ##
  
