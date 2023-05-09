@@ -1,9 +1,9 @@
  
 <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfsouza&layout=compact&langs_count=16&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanfsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 <br>
 </div>
+<img align="right" height="200em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
 <div  align="center">
 
   <div style="display: inline_block"><br>
