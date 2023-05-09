@@ -1,6 +1,6 @@
  
 <a href=""> <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfsouza&layout=compact&langs_count=16&theme=radical"/> </a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanfsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<a href=""> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanfsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> </a>
 <br>
 </div>
 <div  align="center">
