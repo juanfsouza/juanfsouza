@@ -1,4 +1,4 @@
-Hello World, I'm Rafael Bigeschi 🌎
+<div>Hello World, I'm Rafael Bigeschi 🌎
 🚀 Welcome to my Github profile 🙌
 🖥️ I'm a web developer
 🏠 I'm from Brazil
@@ -9,7 +9,7 @@ Complete Web Development course with HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 
 📚 I'm also improving my knowledge in ReactJS, NodeJS, APIs, JSON, relational and non-relational databases. Using Git to upload projects to GitHub and how to use GitFlow to work as a team.
 🤝 My goals
 🚀 I'm looking to join the IT area and develop projects that add value to the company and enable my professional growth. In relation to teamwork, I try to contribute along with other professionals to the success of the workflow.
-
+</div>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanfsouza&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfsouza&layout=compact&langs_count=16&theme=great-gatsby"/>
