@@ -5,7 +5,7 @@ Sou apaixonado por desenvolvimento frontend, e estou focado em aprender e cresce
 
 ⚡Tenho sólidos conhecimentos em JavaScript, a base fundamental de tudo que fazemos no desenvolvimento web.
 
-<center>📚 Gosto novas tecnologias e bibliotecas que possam enriquecer meu conjunto de habilidades.</center>
+ 📚 Gosto novas tecnologias e bibliotecas que possam enriquecer meu conjunto de habilidades.
 
 💼 Trabalho em projetos pessoais para aplicar e consolidar o conhecimento adquirido.
 
