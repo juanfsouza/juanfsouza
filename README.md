@@ -1,6 +1,13 @@
-## Meu nome é Juan Fernando. Sou freelancer como Frontend Developer e UI Designer desde 2020. Sou extremamente apaixonado por café e cultura japonesa.
+Sou um profissional em transição de carreira, apaixonado por desenvolvimento frontend, e estou focado em aprender e crescer constantemente.
 
-Minha primeira experiência com código foi na época em que todos tinham um Wix. Lembro-me de tentar encontrar uma maneira de mudar a cor de fundo e ter um texto chamativo. Eu costumava passar horas tentando personalizá-lo e nem conseguia ver o tempo passar. A emoção de ter o poder de estruturar páginas por conta própria foi incrível. É como lego. Você começa peça por peça, ninguém entende o que está construindo e pronto... você tem um castelo de códigos.
+🚀 Tenho experiência trabalhando com React, uma das bibliotecas JavaScript mais populares para desenvolvimento frontend.
+🌱 Sou entusiasta do TypeScript, a linguagem que traz tipagem estática e segurança ao JavaScript.
+
+⚡Tenho sólidos conhecimentos em JavaScript, a base fundamental de tudo que fazemos no desenvolvimento web.
+
+📚 Gosto novas tecnologias e bibliotecas que possam enriquecer meu conjunto de habilidades.
+
+💼 Trabalho em projetos pessoais para aplicar e consolidar o conhecimento adquirido.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-fernando-665204203/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/JuanFer43796479) 
