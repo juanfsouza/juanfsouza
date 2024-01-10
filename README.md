@@ -5,7 +5,7 @@ Sou um profissional em transição de carreira, apaixonado por desenvolvimento f
 
 ⚡Tenho sólidos conhecimentos em JavaScript, a base fundamental de tudo que fazemos no desenvolvimento web.
 
-<br>📚 Gosto novas tecnologias e bibliotecas que possam enriquecer meu conjunto de habilidades.</br>
+📚 Gosto novas tecnologias e bibliotecas que possam enriquecer meu conjunto de habilidades.
 
 💼 Trabalho em projetos pessoais para aplicar e consolidar o conhecimento adquirido.
 
