@@ -1,4 +1,4 @@
-Sou um profissional em transição de carreira, apaixonado por desenvolvimento frontend, e estou focado em aprender e crescer constantemente.
+Sou apaixonado por desenvolvimento frontend, e estou focado em aprender e crescer constantemente.
 
 🚀 Tenho experiência trabalhando com React, uma das bibliotecas JavaScript mais populares para desenvolvimento frontend.
 🌱 Sou entusiasta do TypeScript, a linguagem que traz tipagem estática e segurança ao JavaScript.
