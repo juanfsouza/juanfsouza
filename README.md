@@ -1,4 +1,4 @@
-Sou experiente por desenvolvimento frontend, e estou focado em aprender e crescer constantemente.
+Sou experiente por desenvolvimento front-end e back-end, e estou focado em aprender e crescer constantemente.
 
 🚀 Tenho experiência trabalhando com React, uma das bibliotecas JavaScript mais populares para desenvolvimento frontend.
 
