@@ -1,14 +1,13 @@
-xxxSou experiente por desenvolvimento front-end, e estou focado em aprender e crescer constantemente.
 
-🚀 Tenho experiência trabalhando com React, uma das bibliotecas JavaScript mais populares para desenvolvimento frontend.
+🚀 Sou um solucionador de problemas criativo, capaz de enfrentar desafios técnicos e de design de forma eficaz e inovadora.
+
+👨‍💻 Mantenho-me atualizado com as últimas tendências e tecnologias em desenvolvimento de software e design, demonstrando um compromisso contínuo com a aprendizagem e o aprimoramento profissional.
 
 🌱 Sou entusiasta do TypeScript, a linguagem que traz tipagem estática e segurança ao JavaScript.
 
-⚡Tenho sólidos conhecimentos em JavaScript, a base fundamental de tudo que fazemos no desenvolvimento web.
+⚡ Tenho sólidos conhecimentos em JavaScript, a base fundamental de tudo que fazemos no desenvolvimento web.
 
- 📚 Gosto novas tecnologias e bibliotecas que possam enriquecer meu conjunto de habilidades.
-
-💼 Trabalho em projetos pessoais para aplicar e consolidar o conhecimento adquirido.
+📚 Gosto novas tecnologias e bibliotecas que possam enriquecer meu conjunto de habilidades.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-fernando-665204203/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/JuanFer43796479) 
