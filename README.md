@@ -1,5 +1,5 @@
 
-🚀 Sou um solucionador de problemas criativo, capaz de enfrentar desafios técnicos e de design de forma eficaz e inovadora.
+🚀 Sou um solucionador de problemas criativo, capaz de enfrentar desafios técnicos e de design de forma eficaz e inovadora..
 
 👨‍💻 Mantenho-me atualizado com as últimas tendências e tecnologias em desenvolvimento de software e design, demonstrando um compromisso contínuo com a aprendizagem e o aprimoramento profissional.
 
