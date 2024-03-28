@@ -19,8 +19,10 @@
 </div>
 
 <div align="center">
- 
+<a href="https://erick-kuwahara.vercel.app/" rel="nofollow">
+        
 ![Static Badge](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=Linkedin&logoColor=black)
+</a>
 ![Static Badge](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=vercel&logoColor=black)
 </div>
 
