@@ -23,8 +23,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  ###
-  
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+ 
 
 
 
