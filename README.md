@@ -1,16 +1,13 @@
 
-<center>
- 
-![Static Badge](https://img.shields.io/badge/JavaScript-white?style=for-the-badge)
+<center> ![Static Badge](https://img.shields.io/badge/JavaScript-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/TypeScipt-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/React-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/React%20Native-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/NextJs-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Java-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Spring-white?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge) </center>
 
-</center>
 
 
 # 📊 GitHub Stats:
