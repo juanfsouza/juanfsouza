@@ -1,6 +1,7 @@
-<div align="center" style="margin-left: 50px;" dir="auto">
+<div align="center" style="margin-left: 100px;" dir="auto">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=500&size=23&duration=4000&pause=1000&color=F7F7F7&random=false&width=435&lines=I'am+Full+Stack+Developer;Hello%2C+My+name+is+Juan+Fernando)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
