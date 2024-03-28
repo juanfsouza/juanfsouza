@@ -9,8 +9,8 @@
 
 📚 Gosto novas tecnologias e bibliotecas que possam enriquecer meu conjunto de habilidades.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-fernando-665204203/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/JuanFer43796479) 
+## 🌐 Social:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-fernando-665204203/)
 
 # 💻 Tech Stack:
 
