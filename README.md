@@ -1,5 +1,4 @@
 <div align="center">
- 
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/TypeScipt-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/React-white?style=for-the-badge)
@@ -10,8 +9,11 @@
 ![Static Badge](https://img.shields.io/badge/Spring-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge)
 </div>
+
+<div align="center">
 ![Static Badge](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=Linkedin&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=vercel&logoColor=black)
+</div>
 
 
 
