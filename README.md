@@ -26,7 +26,7 @@
 </a>
   
 <a href="https://www.linkedin.com/in/juan-fernando-665204203/" rel="nofollow">
-<img src="https://camo.githubusercontent.com/b4e43a0c5e2c39eff95b09cfba97655bfc70f59f8998d7a8756025cca8690faa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2532302d253041363643322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d30303030303026636f6c6f723d464646464646" data-canonical-src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&amp;style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=000000&amp;color=FFFFFF" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/b4e43a0c5e2c39eff95b09cfba97655bfc70f59f8998d7a8756025cca8690faa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2532302d253041363643322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d30303030303026636f6c6f723d464646464646" data-canonical-src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&amp;style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=000000&amp;color=FFFFFF">
 </a>
 </div>    
 
