@@ -1,18 +1,8 @@
-.
-🚀 Sou um solucionador de problemas criativo, capaz de enfrentar desafios técnicos e de design de forma eficaz e inovadora..
-
-👨‍💻 Mantenho-me atualizado com as últimas tendências e tecnologias em desenvolvimento de software e design, demonstrando um compromisso contínuo com a aprendizagem e o aprimoramento profissional.
-
-🌱 Sou entusiasta do TypeScript, a linguagem que traz tipagem estática e segurança ao JavaScript.
-
-⚡ Tenho sólidos conhecimentos em JavaScript, a base fundamental de tudo que fazemos no desenvolvimento web.
-
-📚 Gosto novas tecnologias e bibliotecas que possam enriquecer meu conjunto de habilidades.
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-fernando-665204203/)
 
-# 💻 Tech Stack:
+<p align="center">
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/TypeScipt-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/React-white?style=for-the-badge)
@@ -21,6 +11,7 @@
 ![Static Badge](https://img.shields.io/badge/Java-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Spring-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge)
+</p>
 
 
 # 📊 GitHub Stats:
