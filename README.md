@@ -1,7 +1,7 @@
 <div align="center">
  
-<a href="">![Static Badge](https://img.shields.io/badge/JavaScript-white?style=for-the-badge)</a>
-<a href="">![Static Badge](https://img.shields.io/badge/TypeScipt-white?style=for-the-badge)</a>
+![Static Badge](https://img.shields.io/badge/JavaScript-white?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/TypeScipt-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/React-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/React%20Native-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/NextJs-white?style=for-the-badge)
