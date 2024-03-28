@@ -1,8 +1,5 @@
 
-## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-fernando-665204203/)
-
-<p align="center">
+<center>
  
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/TypeScipt-white?style=for-the-badge)
@@ -13,7 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/Spring-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge)
 
-</p>
+</center>
 
 
 # 📊 GitHub Stats:
