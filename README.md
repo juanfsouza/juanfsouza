@@ -11,7 +11,6 @@
 ![Static Badge](https://img.shields.io/badge/TypeScipt-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/React-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/React%20Native-white?style=for-the-badge)
-
 </br>
 
 ![Static Badge](https://img.shields.io/badge/NextJs-white?style=for-the-badge)
