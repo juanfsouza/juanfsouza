@@ -40,7 +40,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Juanfsouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?juanfsouza=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanfsouza=anuraghazra&theme=dark&show_icons=true)
 
 </div>
 </br>
