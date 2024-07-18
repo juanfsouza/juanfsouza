@@ -34,11 +34,11 @@
         
 <h2>GitHub Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfsouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanfsouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </br>
 
-![](https://github-readme-stats.vercel.app/api?username=juanfsouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Juanfsouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 </div>
 </br>
