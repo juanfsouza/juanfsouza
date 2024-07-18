@@ -40,10 +40,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Juanfsouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Juanfsouza=anuraghazra&hide=javascript,html)](https://github.com/Juanfsouza/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?juanfsouza=anuraghazra&theme=dark&show_icons=true)
 
 </div>
 </br>
