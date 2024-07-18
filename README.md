@@ -36,7 +36,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanfsouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
 ![](https://github-readme-stats.vercel.app/api?username=Juanfsouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Juanfsouza=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Juanfsouza=anuraghazra&hide=javascript,html)](https://github.com/Juanfsouza/github-readme-stats)
 </div>
 </br>
  
