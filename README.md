@@ -34,8 +34,6 @@
         
 <h2>GitHub Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanfsouza&hide=javascript,css,scss,html&theme=tokyonight)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanfsouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </br>
