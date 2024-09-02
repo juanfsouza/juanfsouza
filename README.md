@@ -22,7 +22,9 @@
 <div align="center">
         
 <a href="https://new-portifolio-main.vercel.app/">
+      
 ![Static Badge](https://img.shields.io/badge/Portifolio-white?style=for-the-badge&logo=vercel&logoColor=%23000000)
+
 </a>
   
 <a href="https://www.linkedin.com/in/juan-fernando-665204203/">
