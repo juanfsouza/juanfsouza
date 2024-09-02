@@ -19,7 +19,7 @@
 </div>
 
 
-<div align="center flex">
+<div align="center inline-block">
         
 <a href="https://new-portifolio-main.vercel.app/">
       
