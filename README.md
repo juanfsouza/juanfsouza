@@ -22,7 +22,7 @@
 <div align="center">
         
 <a href="https://new-portifolio-main.vercel.app/">
-<img src="https://camo.githubusercontent.com/39b0122156d161d122bef3fffcc898b046c6d6081850e06db49b297faf9755f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2532302d254646464646462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d56657263656c266c6f676f436f6c6f723d30303030303026636f6c6f723d464646464646" data-canonical-src="https://img.shields.io/badge/Portfolio%20-%FFFFFF.svg?&amp;style=for-the-badge&amp;logo=Vercel&amp;logoColor=000000&amp;color=FFFFFF">
+<img ![Static Badge](https://img.shields.io/badge/Protifolio-white?logo=vercel&logoColor=%23000000)
 </a>
   
 <a href="https://www.linkedin.com/in/juan-fernando-665204203/">
