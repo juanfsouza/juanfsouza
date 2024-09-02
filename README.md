@@ -4,7 +4,6 @@
         
 </div>
 
-
 <div align="center">
  
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?style=for-the-badge)
