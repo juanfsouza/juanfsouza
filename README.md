@@ -19,17 +19,14 @@
 </div>
 
 
-<div align="center inline-block">
-        
-<a href="https://new-portifolio-main.vercel.app/">
-      
-![Static Badge](https://img.shields.io/badge/Portifolio-white?style=for-the-badge&logo=vercel&logoColor=%23000000)
-</a>
-<a href="https://www.linkedin.com/in/juan-fernando-665204203/">   
-
-![Static Badge](https://img.shields.io/badge/Profile-white?style=for-the-badge&logo=linkedin&logoColor=%23000000)
-</a>
-</div>    
+<div align="center">
+  <a href="https://new-portifolio-main.vercel.app/">
+    <img src="https://img.shields.io/badge/Portifolio-white?style=for-the-badge&logo=vercel&logoColor=%23000000" alt="Portifolio">
+  </a>
+  <a href="https://www.linkedin.com/in/juan-fernando-665204203/">
+    <img src="https://img.shields.io/badge/Profile-white?style=for-the-badge&logo=linkedin&logoColor=%23000000" alt="Profile">
+  </a>
+</div>  
 
 <div align="center">
         
