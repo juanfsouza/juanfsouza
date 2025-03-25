@@ -38,21 +38,11 @@
 </div>
 </br>
 
-
-<h3 align="center" class="heading-element" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow"  
-                                                            
-![duck_dance](https://github.com/user-attachments/assets/f53864dd-6521-49f6-b33c-da0171cb7595)
-
-&nbsp;&nbsp;B E S T &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;
-
-![duck_dance](https://github.com/user-attachments/assets/f53864dd-6521-49f6-b33c-da0171cb7595)
-</h3>
-
-<p align="center">
+<h3 align="center">
   <img src="https://github.com/user-attachments/assets/f53864dd-6521-49f6-b33c-da0171cb7595" alt="duck_dance" width="40">
   &nbsp;&nbsp;**B E S T &nbsp; R E P O S I T O R I E S**&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/f53864dd-6521-49f6-b33c-da0171cb7595" alt="duck_dance" width="40">
-</p>
+</h3>
 
 
 
