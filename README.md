@@ -24,18 +24,12 @@
   </a>
 </div>  
 
-<a href="https://github.com/juanfsouza/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=juanfsouza" />
-</a>
-<a href="https://github.com/juanfsouza /convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanfsouza&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 <div align="center">
         
 ### GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanfsouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfsouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </br>
 
 </div>
