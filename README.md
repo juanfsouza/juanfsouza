@@ -8,7 +8,7 @@
 
 Minha missão e resolver problemas com códigos. Trabalho com foco em performance, escalabilidade e boas práticas.
 
-### 📝 Atualmente estou focado
+### 📝 Atualmente estou focado, sempre aprendendo...
 
 Construção de sistemas web e mobile modernos
 Microsserviços e APIs escaláveis
@@ -19,7 +19,7 @@ Projetos SaaS e arquitetura de software
 
 <div align="center">
 
-### 🚀 Tecnologias & Ferramentas
+### 🚀 HARD SKILLS
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript)
@@ -61,7 +61,7 @@ Projetos SaaS e arquitetura de software
 
 
 <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/X5NZ.gif" width="50" />
-Contato
+CONTACT
 <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/X5NZ.gif" width="50" />
 </br>
 
