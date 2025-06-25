@@ -52,7 +52,7 @@ Projetos SaaS e arquitetura de software
 
 <div align="center">
 
-<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/Jack.gif" width="90" />
+<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/PYh.gif" width="90" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfsouza&theme=dark&hide_border=false&layout=compact)
 </br>
@@ -73,7 +73,7 @@ Projetos SaaS e arquitetura de software
 ---
 
 <h3 align="center">
-  <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/naruto+(2).gif" width="100" />
+  <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/X5NZ.gif" width="100" />
   ✨ REPOSITORIES! ✨
-  <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/naruto+(1).gif" width="100" />
+  <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/X5NZ.gif" width="100" />
 </h3>
