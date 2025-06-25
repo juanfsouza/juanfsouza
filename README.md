@@ -71,10 +71,8 @@ Projetos SaaS e arquitetura de software
 </div>
 
 <h3 align="center">
-
-  <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/3q60.gif" width="150" /> 
   <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/X5NZ.gif" width="100" />
-  ✨ REPOSITORIES! ✨
+  ✨ REPOSITORIES ✨
   <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/X5NZ.gif" width="100" />
 </h3>
 
