@@ -58,25 +58,12 @@ Projetos SaaS e arquitetura de software
 
 </div>
 
----
-
-### 📌 Repositórios em Destaque
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=juanfsouza&repo=nome-do-repo-1&theme=dark)](https://github.com/juanfsouza/nome-do-repo-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=juanfsouza&repo=nome-do-repo-2&theme=dark)](https://github.com/juanfsouza/nome-do-repo-2)
-
-</div>
-
----
-
 ### 📬 Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-usuario)
-[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/juan-fernando-665204203/)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:juanfsouza1234@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github)](https://github.com/juanfsouza)
 
 </div>
@@ -85,6 +72,6 @@ Projetos SaaS e arquitetura de software
 
 <h3 align="center">
   <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/naruto+(2).gif" width="100" />
-  ✨ Obrigado por visitar! ✨
+  ✨ REPOSITORIES! ✨
   <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/naruto+(1).gif" width="100" />
 </h3>
