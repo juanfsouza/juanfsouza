@@ -47,12 +47,11 @@ Trabalho com foco em performance, escalabilidade e boas práticas
 
 Construção de sistemas web e mobile modernos
 </br>
-Microsserviços e APIs escaláveis
-</br>
 Integrações com plataformas e automações
 </br>
 Projetos SaaS e arquitetura de software
-
+</br>
+Microsserviços e APIs escaláveis
 
 ### 📊 GitHub Stats
 
