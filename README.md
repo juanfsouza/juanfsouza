@@ -6,11 +6,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-### 👋 Oi! Sou o Juan Fernando
-
-Sou um desenvolvedor **Full Stack** apaixonado por resolver problemas com código. Trabalho com foco em performance, escalabilidade e boas práticas.
+Minha missão e resolver problemas com códigos. Trabalho com foco em performance, escalabilidade e boas práticas.
 
 Atualmente estou focado em:
 - Construção de sistemas web e mobile modernos
