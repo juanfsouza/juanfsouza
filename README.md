@@ -42,8 +42,6 @@ Projetos SaaS e arquitetura de software
   <img src="https://img.shields.io/badge/Portfólio-white?style=for-the-badge&logo=vercel&logoColor=000" alt="Portfólio">
 </a>
 
-<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/ZKZg.gif" width="30" />
-
 </div>
 
 <div align="center">
@@ -61,10 +59,12 @@ Projetos SaaS e arquitetura de software
 ### 📬 Contato
 <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/PYh.gif" width="90" />
 
-
+<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/X5NZ.gif" width="50" />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/juan-fernando-665204203/)
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:juanfsouza1234@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github)](https://github.com/juanfsouza)
+<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/X5NZ.gif" width="50" />
+
 
 </div>
 
