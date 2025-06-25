@@ -6,9 +6,9 @@
 
 <div align="center">
 
-Minha missão e sempre resolver problemas com códigos. 
+Minha missão e sempre resolver problemas com códigos
 </br>
-Trabalho com foco em performance, escalabilidade e boas práticas.
+Trabalho com foco em performance, escalabilidade e boas práticas
 
 ### 📝 Atualmente estou focado, sempre aprendendo...
 
