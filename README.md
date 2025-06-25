@@ -59,6 +59,9 @@ Projetos SaaS e arquitetura de software
 ### 📬 Contato
 <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/PYh.gif" width="50" />
 
+<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/X5NZ.gif" width="50" />
+<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/X5NZ.gif" width="50" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/juan-fernando-665204203/)
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:juanfsouza1234@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github)](https://github.com/juanfsouza)
