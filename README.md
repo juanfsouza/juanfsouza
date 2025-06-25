@@ -4,6 +4,18 @@
         
 </div>
 
+  /$$$$$$  /$$$$$$$  /$$$$$$$$  /$$$$$$  /$$$$$$$$ /$$$$$$ /$$    /$$ /$$$$$$$$       /$$      /$$  /$$$$$$  /$$   /$$ /$$$$$$$$  /$$$$$$ 
+ /$$__  $$| $$__  $$| $$_____/ /$$__  $$|__  $$__/|_  $$_/| $$   | $$| $$_____/      | $$$    /$$$ /$$__  $$| $$  /$$/| $$_____/ /$$__  $$
+| $$  \__/| $$  \ $$| $$      | $$  \ $$   | $$     | $$  | $$   | $$| $$            | $$$$  /$$$$| $$  \ $$| $$ /$$/ | $$      | $$  \__/
+| $$      | $$$$$$$/| $$$$$   | $$$$$$$$   | $$     | $$  |  $$ / $$/| $$$$$         | $$ $$/$$ $$| $$$$$$$$| $$$$$/  | $$$$$   |  $$$$$$ 
+| $$      | $$__  $$| $$__/   | $$__  $$   | $$     | $$   \  $$ $$/ | $$__/         | $$  $$$| $$| $$__  $$| $$  $$  | $$__/    \____  $$
+| $$    $$| $$  \ $$| $$      | $$  | $$   | $$     | $$    \  $$$/  | $$            | $$\  $ | $$| $$  | $$| $$\  $$ | $$       /$$  \ $$
+|  $$$$$$/| $$  | $$| $$$$$$$$| $$  | $$   | $$    /$$$$$$   \  $/   | $$$$$$$$      | $$ \/  | $$| $$  | $$| $$ \  $$| $$$$$$$$|  $$$$$$/
+ \______/ |__/  |__/|________/|__/  |__/   |__/   |______/    \_/    |________/      |__/     |__/|__/  |__/|__/  \__/|________/ \______/ 
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+
 <div align="center">
  
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?style=for-the-badge)
@@ -29,6 +41,8 @@
         
 ### GitHub Stats
 
+<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/Jack.gif" alt="duck_dance" width="100">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfsouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </br>
 
@@ -38,7 +52,7 @@
 <h3 align="center">
   <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/Jack.gif" alt="duck_dance" width="40">
   &nbsp;&nbsp;**B E S T &nbsp; R E P O S I T O R I E S**&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/f53864dd-6521-49f6-b33c-da0171cb7595" alt="duck_dance" width="40">
+  <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/Jack.gif" alt="duck_dance" width="40">
 </h3>
 
 
