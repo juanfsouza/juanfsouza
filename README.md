@@ -40,9 +40,9 @@
 </br>
 
 <h3 align="center">
-  <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/Jack.gif" alt="duck_dance" width="40">
+  <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/naruto+(2).gif" alt="duck_dance" width="40">
   &nbsp;&nbsp;**B E S T &nbsp; R E P O S I T O R I E S**&nbsp;&nbsp;
-  <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/Jack.gif" alt="duck_dance" width="40">
+  <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/naruto+(1).gif" alt="duck_dance" width="40">
 </h3>
 
 
