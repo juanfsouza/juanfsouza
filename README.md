@@ -36,7 +36,7 @@
 </br>
 
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/f53864dd-6521-49f6-b33c-da0171cb7595" alt="duck_dance" width="40">
+  <img src="https://www.deviantart.com/blue-staple-studios/art/Jake-dancing-gif-552756983" alt="duck_dance" width="40">
   &nbsp;&nbsp;**B E S T &nbsp; R E P O S I T O R I E S**&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/f53864dd-6521-49f6-b33c-da0171cb7595" alt="duck_dance" width="40">
 </h3>
