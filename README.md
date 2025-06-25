@@ -31,7 +31,6 @@ Trabalho com foco em performance, escalabilidade e boas práticas
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
 </br>
 ![Vite](https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/Prisma-white?style=for-the-badge&logo=prisma)
 ![TypeORM](https://img.shields.io/badge/TypeORM-white?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=redis)
