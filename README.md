@@ -15,7 +15,7 @@ Microsserviços e APIs escaláveis
 Integrações com plataformas e automações
 Projetos SaaS e arquitetura de software
 
-<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/ZKZg.gif" width="50" />
+<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/ZKZg.gif" width="30" />
 
 </div>
 
@@ -30,11 +30,13 @@ Projetos SaaS e arquitetura de software
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css)
 ![Vite](https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite)
 ![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js)
+
 ![NestJS](https://img.shields.io/badge/NestJS-white?style=for-the-badge&logo=nestjs)
 ![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express)
 ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java)
 ![Spring](https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=spring)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/Prisma-white?style=for-the-badge&logo=prisma)
 ![TypeORM](https://img.shields.io/badge/TypeORM-white?style=for-the-badge)
@@ -46,10 +48,9 @@ Projetos SaaS e arquitetura de software
 
 </div>
 
----
-### 📊 GitHub Stats
-
 <div align="center">
+
+### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfsouza&theme=dark&hide_border=false&layout=compact)
 </br>
@@ -57,12 +58,11 @@ Projetos SaaS e arquitetura de software
 
 </div>
 
----
-### 📬 Contato
-
 <div align="center">
 
+### 📬 Contato
 <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/PYh.gif" width="90" />
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/juan-fernando-665204203/)
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:juanfsouza1234@gmail.com)
