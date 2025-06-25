@@ -24,7 +24,7 @@ Projetos SaaS e arquitetura de software
 
 <div align="center">
 
-### 🚀 HARD SKILLS
+### 🚀 HARD SKILLS 🚀
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript)
