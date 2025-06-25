@@ -6,13 +6,17 @@
 
 <div align="center">
 
-Minha missão e resolver problemas com códigos. Trabalho com foco em performance, escalabilidade e boas práticas.
+Minha missão e resolver problemas com códigos. 
+Trabalho com foco em performance, escalabilidade e boas práticas.
 
 ### 📝 Atualmente estou focado, sempre aprendendo...
 
 Construção de sistemas web e mobile modernos
+</br>
 Microsserviços e APIs escaláveis
+</br>
 Integrações com plataformas e automações
+</br>
 Projetos SaaS e arquitetura de software
 
 </div>
