@@ -61,7 +61,7 @@ Projetos SaaS e arquitetura de software
 
 
 <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/X5NZ.gif" width="50" />
-📬 Contato
+Contato
 <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/X5NZ.gif" width="50" />
 </br>
 
