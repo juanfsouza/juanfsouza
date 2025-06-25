@@ -3,52 +3,107 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=500&size=23&duration=4000&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=I'am+Full+Stack+Developer;Hello%2C+My+name+is+Juan+Fernando)](https://git.io/typing-svg)
 
 </div>
+
 <div align="center">
 
-Sou um desenvolvedor Full Stack apaixonado por criar soluções inteligentes, intuitivas e performáticas. Tenho experiência em desenvolvimento de aplicações web e mobile, automações, integrações com APIs e construção de microsserviços.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+### 👋 Oi! Sou o Juan Fernando
+
+Sou um desenvolvedor **Full Stack** apaixonado por resolver problemas com código. Trabalho com foco em performance, escalabilidade e boas práticas.
+
+Atualmente estou focado em:
+- Construção de sistemas web e mobile modernos
+- Microsserviços e APIs escaláveis
+- Integrações com plataformas e automações
+- Projetos SaaS e arquitetura de software
+
+</div>
+
+### 🚀 Tecnologias & Ferramentas
+
+<div align="center">
+
+**Front-end**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite)
+
+**Back-end**
+
+![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-white?style=for-the-badge&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=spring)
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
+
+**Banco de Dados & Ferramentas**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-white?style=for-the-badge&logo=prisma)
+![TypeORM](https://img.shields.io/badge/TypeORM-white?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=redis)
 
 </div>
 
 ---
 
-<div align="center">
-
-### 🧠 Tecnologias que uso no dia a dia
-
-![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React%20Native-white?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next.js)
-![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=spring)
-![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
-
-</div>
-
-<div align="center">
-
 ### 🌐 Meu Portfólio
-<a href="https://new-portifolio-main.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfólio-white?style=for-the-badge&logo=vercel&logoColor=%23000000" alt="Portfólio">
+
+<div align="center">
+
+<a href="https://new-portifolio-main.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-white?style=for-the-badge&logo=vercel&logoColor=000" alt="Portfólio">
 </a>
 
 </div>
 
-<div align="center">
+---
 
 ### 📊 GitHub Stats
 
-<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/Jack.gif" alt="duck_dance" width="100" />
+<div align="center">
+
+<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/Jack.gif" width="90" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfsouza&theme=dark&hide_border=false&layout=compact)
+</br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanfsouza&show_icons=true&theme=dark&hide_border=false)
+
+</div>
+
+---
+
+### 📌 Repositórios em Destaque
+
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=juanfsouza&repo=nome-do-repo-1&theme=dark)](https://github.com/juanfsouza/nome-do-repo-1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=juanfsouza&repo=nome-do-repo-2&theme=dark)](https://github.com/juanfsouza/nome-do-repo-2)
+
+</div>
+
+---
+
+### 📬 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-usuario)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github)](https://github.com/juanfsouza)
 
 </div>
 
 ---
 
 <h3 align="center">
-  <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/naruto+(2).gif" alt="naruto" width="100">
-  &nbsp;&nbsp;✨ B E S T &nbsp; R E P O S I T O R I E S ✨&nbsp;&nbsp;
-  <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/naruto+(1).gif" alt="naruto" width="100">
+  <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/naruto+(2).gif" width="100" />
+  ✨ Obrigado por visitar! ✨
+  <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/naruto+(1).gif" width="100" />
 </h3>
