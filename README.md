@@ -15,8 +15,6 @@ Microsserviços e APIs escaláveis
 Integrações com plataformas e automações
 Projetos SaaS e arquitetura de software
 
-<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/ZKZg.gif" width="30" />
-
 </div>
 
 <div align="center">
@@ -43,6 +41,8 @@ Projetos SaaS e arquitetura de software
 <a href="https://new-portifolio-main.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-white?style=for-the-badge&logo=vercel&logoColor=000" alt="Portfólio">
 </a>
+
+<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/ZKZg.gif" width="30" />
 
 </div>
 
