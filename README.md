@@ -8,14 +8,14 @@
 
 Minha missão e resolver problemas com códigos. Trabalho com foco em performance, escalabilidade e boas práticas.
 
-📝 Atualmente estou focado em:
+### 📝 Atualmente estou focado em:
 
 Construção de sistemas web e mobile modernos
 Microsserviços e APIs escaláveis
 Integrações com plataformas e automações
 Projetos SaaS e arquitetura de software
 
-<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/Haha.gif" width="100" />
+<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/ZKZg.gif" width="100" />
 
 </div>
 
