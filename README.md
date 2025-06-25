@@ -8,7 +8,7 @@
 
 Minha missão e resolver problemas com códigos. Trabalho com foco em performance, escalabilidade e boas práticas.
 
-### 📝 Atualmente estou focado em
+### 📝 Atualmente estou focado
 
 Construção de sistemas web e mobile modernos
 Microsserviços e APIs escaláveis
