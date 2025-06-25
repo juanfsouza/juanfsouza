@@ -73,7 +73,7 @@ CONTACT
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:juanfsouza1234@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github)](https://github.com/juanfsouza)
 
-<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/gifs-de-seta-para-baixo-19.gif" width="150" />
+<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/gifs-de-seta-para-baixo-19.gif" width="250" />
 
 </div>
 
