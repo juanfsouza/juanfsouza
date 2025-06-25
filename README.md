@@ -6,7 +6,7 @@
 
 <div align="center">
 
-Minha missão e resolver problemas com códigos. 
+Minha missão e sempre resolver problemas com códigos. 
 </br>
 Trabalho com foco em performance, escalabilidade e boas práticas.
 
