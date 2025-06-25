@@ -3,9 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=500&size=23&duration=4000&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=I'am+Full+Stack+Developer;Hello%2C+My+name+is+Juan+Fernando)](https://git.io/typing-svg)
 
 </div>
-
----
-
 <div align="center">
 
 Sou um desenvolvedor Full Stack apaixonado por criar soluções inteligentes, intuitivas e performáticas. Tenho experiência em desenvolvimento de aplicações web e mobile, automações, integrações com APIs e construção de microsserviços.
@@ -29,8 +26,6 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções inteligentes, in
 
 </div>
 
----
-
 <div align="center">
 
 ### 🌐 Meu Portfólio
@@ -39,8 +34,6 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções inteligentes, in
 </a>
 
 </div>
-
----
 
 <div align="center">
 
