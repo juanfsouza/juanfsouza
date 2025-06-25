@@ -8,7 +8,7 @@
 
 Minha missão e resolver problemas com códigos. Trabalho com foco em performance, escalabilidade e boas práticas.
 
-### 📝 Atualmente estou focado em:
+### 📝 Atualmente estou focado em
 
 Construção de sistemas web e mobile modernos
 Microsserviços e APIs escaláveis
@@ -40,7 +40,7 @@ Projetos SaaS e arquitetura de software
 ![Prisma](https://img.shields.io/badge/Prisma-white?style=for-the-badge&logo=prisma)
 ![TypeORM](https://img.shields.io/badge/TypeORM-white?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=redis)
-
+</br>
 <a href="https://new-portifolio-main.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-white?style=for-the-badge&logo=vercel&logoColor=000" alt="Portfólio">
 </a>
