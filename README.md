@@ -15,6 +15,9 @@ Microsserviços e APIs escaláveis
 Integrações com plataformas e automações
 Projetos SaaS e arquitetura de software
 
+<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/Haha.gif
+" width="100" />
+
 </div>
 
 <div align="center">
