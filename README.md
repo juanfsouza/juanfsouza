@@ -17,9 +17,9 @@ Projetos SaaS e arquitetura de software
 
 </div>
 
-### 🚀 Tecnologias & Ferramentas
-
 <div align="center">
+
+### 🚀 Tecnologias & Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript)
@@ -27,14 +27,12 @@ Projetos SaaS e arquitetura de software
 ![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css)
 ![Vite](https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite)
-
 ![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-white?style=for-the-badge&logo=nestjs)
 ![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express)
 ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java)
 ![Spring](https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=spring)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/Prisma-white?style=for-the-badge&logo=prisma)
 ![TypeORM](https://img.shields.io/badge/TypeORM-white?style=for-the-badge)
