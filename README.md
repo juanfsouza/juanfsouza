@@ -30,7 +30,6 @@ Projetos SaaS e arquitetura de software
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css)
 ![Vite](https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite)
 ![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js)
-
 ![NestJS](https://img.shields.io/badge/NestJS-white?style=for-the-badge&logo=nestjs)
 ![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express)
 ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java)
