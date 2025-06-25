@@ -65,12 +65,12 @@ Projetos SaaS e arquitetura de software
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:juanfsouza1234@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github)](https://github.com/juanfsouza)
 
+<img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/PYh.gif" width="50" />
+
+<h3 align="center">
+     REPOSITORIES
+</h3>
 
 </div>
 
-<h3 align="center">
-  <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/PYh.gif" width="50" />
-     REPOSITORIES
-  <img src="https://mycommerce-bingcommerce.s3.us-east-2.amazonaws.com/Jack/PYh.gif" width="50" />
-</h3>
 
