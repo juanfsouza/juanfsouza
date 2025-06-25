@@ -22,7 +22,6 @@ Trabalho com foco em performance, escalabilidade e boas práticas
 ![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next.js)
 ![NestJS](https://img.shields.io/badge/NestJS-white?style=for-the-badge&logo=nestjs)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css)
-![Vite](https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite)
 </br>
 ![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
@@ -31,6 +30,7 @@ Trabalho com foco em performance, escalabilidade e boas práticas
 ![Spring](https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=spring)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
 </br>
+![Vite](https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/Prisma-white?style=for-the-badge&logo=prisma)
 ![TypeORM](https://img.shields.io/badge/TypeORM-white?style=for-the-badge)
