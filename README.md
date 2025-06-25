@@ -10,16 +10,6 @@ Minha missão e sempre resolver problemas com códigos
 </br>
 Trabalho com foco em performance, escalabilidade e boas práticas
 
-### 📝 Atualmente estou focado, sempre aprendendo...
-
-Construção de sistemas web e mobile modernos
-</br>
-Microsserviços e APIs escaláveis
-</br>
-Integrações com plataformas e automações
-</br>
-Projetos SaaS e arquitetura de software
-
 </div>
 
 <div align="center">
@@ -53,6 +43,17 @@ Projetos SaaS e arquitetura de software
 </div>
 
 <div align="center">
+
+### 📝 Atualmente estou focado, sempre aprendendo...
+
+Construção de sistemas web e mobile modernos
+</br>
+Microsserviços e APIs escaláveis
+</br>
+Integrações com plataformas e automações
+</br>
+Projetos SaaS e arquitetura de software
+
 
 ### 📊 GitHub Stats
 
