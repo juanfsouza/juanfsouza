@@ -55,6 +55,7 @@ Microsserviços e APIs escaláveis
 
 ### 📊 GitHub Stats
 
+![Top Langs](github-readme-stats.vercel.app/api/top-langs/?username=juanfsouza&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanfsouza&theme=dark&hide_border=false&layout=compact)
 
 </div>
