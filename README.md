@@ -30,10 +30,12 @@ Projetos SaaS e arquitetura de software
 ![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-white?style=for-the-badge&logo=nestjs)
 ![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express)
+</br>
 ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java)
 ![Spring](https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=spring)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
+</br>
 ![Prisma](https://img.shields.io/badge/Prisma-white?style=for-the-badge&logo=prisma)
 ![TypeORM](https://img.shields.io/badge/TypeORM-white?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=redis)
@@ -49,14 +51,12 @@ Projetos SaaS e arquitetura de software
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfsouza&theme=dark&hide_border=false&layout=compact)
-</br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanfsouza&show_icons=true&theme=dark&hide_border=false)
 
 </div>
 
-<div align="center">
-
 ---
+
+<div align="center">
 
 ### 📬 Contato
 
